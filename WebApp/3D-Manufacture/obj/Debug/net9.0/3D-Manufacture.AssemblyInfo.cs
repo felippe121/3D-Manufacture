@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3D-Manufacture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc5e6ec9edaf35eefef879c06c0163ee13de6656")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38d65f66be809fdfe500b822f71b1f7e12ddbd4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("3D-Manufacture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3D-Manufacture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
